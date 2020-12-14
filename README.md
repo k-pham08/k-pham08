@@ -7,9 +7,9 @@
 ![k-pham08 github stats](https://github-readme-stats.vercel.app/api?username=k-pham08&show_icons=true&theme=midnight-purple&text_color=f6e400)
 
 #####
-[![Assassin-s-Creed](https://github-readme-stats.vercel.app/api/pin/?username=k-pham08&repo=Assassin-s-Creed&theme=yeblu)](https://github.com/k-pham08/Assassin-s-Creed)
-[![Assassin-s-Creed-Syndicate](https://github-readme-stats.vercel.app/api/pin/?username=k-pham08&repo=Assassin-s-Creed-Syndicate&theme=yeblu)](https://github.com/k-pham08/Assassin-s-Creed-Syndicate)
-[![Ubisoft-Web-Project](https://github-readme-stats.vercel.app/api/pin/?username=k-pham08&repo=Ubisoft-Web-Project&theme=yeblu)](https://github.com/k-pham08/Ubisoft-Web-Project)
+[![Assassin-s-Creed](https://github-readme-stats.vercel.app/api/pin/?username=k-pham08&repo=Assassin-s-Creed&theme=yeblu&bg_color=0,7a0000,020077)](https://github.com/k-pham08/Assassin-s-Creed)
+[![Assassin-s-Creed-Syndicate](https://github-readme-stats.vercel.app/api/pin/?username=k-pham08&repo=Assassin-s-Creed-Syndicate&theme=yeblu&bg_color=0,7a0000,020077)](https://github.com/k-pham08/Assassin-s-Creed-Syndicate)
+[![Ubisoft-Web-Project](https://github-readme-stats.vercel.app/api/pin/?username=k-pham08&repo=Ubisoft-Web-Project&theme=yeblu&bg_color=0,7a0000,020077)](https://github.com/k-pham08/Ubisoft-Web-Project)
 
 #####
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-pham08)](https://github.com/k-pham08)
