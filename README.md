@@ -7,7 +7,6 @@
 ![k-pham08 github stats](https://github-readme-stats.vercel.app/api?username=k-pham08&show_icons=true&theme=midnight-purple&bg_color=45,000000,4a4a4a&text_color=f6e400)
 
 #####
-[![Ubisoft-Web-Project](https://github-readme-stats.vercel.app/api/pin/?username=k-pham08&repo=Ubisoft-Web-Project&theme=yeblu&bg_color=0,7a0000,020077)](https://github.com/k-pham08/Ubisoft-Web-Project)
 
 #####
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-pham08)](https://github.com/k-pham08)
