@@ -7,8 +7,6 @@
 ![k-pham08 github stats](https://github-readme-stats.vercel.app/api?username=k-pham08&show_icons=true&theme=midnight-purple&bg_color=45,000000,4a4a4a&text_color=f6e400)
 
 #####
-
-#####
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-pham08)](https://github.com/k-pham08)
 
 - 🌱 I’m currently learning at HoChiMinh City University Foreign Languages - Information Technology  
